@@ -17,10 +17,11 @@
     "plugins": [
         "-sharing",
         "-highlight",
+        "sharing-plus",
         "github",
         "github-buttons",
         "donate",
-        "sharing-plus"
+        "disqus"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -74,6 +75,9 @@
             "button": "赏",
             "alipayText": "支付宝打赏",
             "wechatText": "微信打赏"
+        },
+        "disqus": {
+            "shortName": "hexouse"
         }
     }
 }
