@@ -1,3 +1,4 @@
+# I 安装与初体验
 [Hexo](https://hexo.io/zh-cn/docs/index.html) 是一个由Node.js驱动的快速、简洁且高效的Blog框架。<br/>
 [Hexo](https://hexo.io/zh-cn/docs/index.html) 使用 [Markdown](https://daringfireball.net/projects/markdown/)（或其他渲染引擎）解析文章。<br/>
 [Hexo](https://hexo.io/zh-cn/docs/index.html) 可快速搭建本地博客站点，并能将其推送到Github。
@@ -77,3 +78,5 @@ hexo server    （简写：hexo s）
 默认状态下，网站是运行在 [http://localhost:4000](http://localhost:4000)，使用浏览器打开这个地址就可看到效果：
 
 ![](/assets/hexo-hello-world.png)
+
+
