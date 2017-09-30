@@ -49,11 +49,11 @@
             "vk": false,
             "whatsapp": false,
             "all": [
-                "weibo",
                 "qq",
                 "qzone",
-                "google",
-                "douban"
+                "weibo",
+                "douban",
+                "google"
             ]
         },
         "github": {
