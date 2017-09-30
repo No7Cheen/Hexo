@@ -60,7 +60,7 @@ sudo npm install hexo-server --save
 ## 站点初体验
 Hexo 初始化的站点文件夹有一个内置的默认主题样式，同时也有一篇 Hello World 文章。
 
-##### 缓存清理
+### 缓存清理
 ```
 hexo clean
 ```
