@@ -31,6 +31,8 @@
         "sectionx",
         "toggle-chapters",
         "ace",
+        "prism",
+        "prism-themes",
         "mermaid",
         "mathjax",
         "emphasize",
@@ -113,6 +115,11 @@
         },
         "sectionx": {
             "tag": "b"
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+            ]
         },
         "include-codeblock": {
             "template": "ace",
