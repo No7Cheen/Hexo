@@ -21,7 +21,8 @@
         "github",
         "github-buttons",
         "donate",
-        "disqus"
+        "disqus",
+        "anchor-navigation-ex"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -78,6 +79,18 @@
         },
         "disqus": {
             "shortName": "hexouse"
+        },
+        "anchor-navigation-ex": {
+            "associatedWithSummary": false,
+            "showLevel": true,
+            "multipleH1": true,
+            "mode": "float",
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
         }
     }
 }
