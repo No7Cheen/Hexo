@@ -17,10 +17,7 @@
     "plugins": [
         "github",
         "donate",
-        "splitter",
-        "anchor-navigation-ex",
-        "sharing-plus",
-        "prism"
+        "sharing-plus"
     ],
     "pluginsConfig": {
         "theme-default": {
