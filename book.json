@@ -1,0 +1,17 @@
+{
+    "title": "Hexo 简易教程",
+    "description": "记录 Hexo 的一些基本操作",
+    "author": "rogers cj",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.2",
+    "root": ".",
+    "structure": {
+        "readme": "introduction.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "https://www.gitbook.com/@rogerscj/dashboard"
+        }
+    }
+}
