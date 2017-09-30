@@ -13,5 +13,67 @@
         "sidebar": {
             "Home": "https://www.gitbook.com/@rogerscj"
         }
+    },
+    "plugins": [
+        "github",
+        "donate",
+        "splitter",
+        "anchor-navigation-ex",
+        "sharing-plus",
+        "prism"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 2
+        },
+        "sharing": {
+            "qq": true,
+            "qzone": true,
+            "weibo": true,
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "whatsapp": false,
+            "all": [
+                "weibo",
+                "qq",
+                "qzone",
+                "google",
+                "douban"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/rogerscj"
+        },
+        "github-buttons": {
+            "repo": "rogerscj/Hexo",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        },
+        "donate": {
+            "wechat": "https://kiwigo.com/resource/weixin.png",
+            "alipay": "https://kiwigo.com/resource/alipay.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        }
     }
 }
