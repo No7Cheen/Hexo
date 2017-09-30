@@ -15,14 +15,29 @@
         }
     },
     "plugins": [
+        "-search",
         "-sharing",
         "-highlight",
         "sharing-plus",
+        "search-pro",
+        "search-plus",
         "github",
         "github-buttons",
+        "tbfed-pagefooter",
         "donate",
         "disqus",
-        "anchor-navigation-ex"
+        "splitter",
+        "anchors",
+        "anchor-navigation-ex",
+        "sectionx",
+        "toggle-chapters",
+        "ace",
+        "mermaid",
+        "mathjax",
+        "emphasize",
+        "codeblock-filename",
+        "include-codeblock",
+        "local-video"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -69,6 +84,11 @@
             ],
             "size": "small"
         },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © rogers 2017",
+            "modify_label": "修订时间：",
+            "modify_format": "YYYY-MM-DD"
+        },
         "donate": {
             "wechat": "https://kiwigo.com/resource/weixin.png",
             "alipay": "https://kiwigo.com/resource/alipay.png",
@@ -81,8 +101,8 @@
             "shortName": "hexouse"
         },
         "anchor-navigation-ex": {
-            "associatedWithSummary": false,
-            "showLevel": true,
+            "associatedWithSummary": true,
+            "showLevel": false,
             "multipleH1": true,
             "mode": "float",
             "pageTop": {
@@ -91,6 +111,14 @@
                 "level2Icon": "fa fa-hand-o-right",
                 "level3Icon": "fa fa-hand-o-right"
             }
+        },
+        "sectionx": {
+            "tag": "b"
+        },
+        "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "edit": true
         }
     }
 }
