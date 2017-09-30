@@ -3,13 +3,13 @@
 [Hexo](https://hexo.io/zh-cn/docs/index.html) 使用 [Markdown](https://daringfireball.net/projects/markdown/)（或其他渲染引擎）解析文章。<br/>
 [Hexo](https://hexo.io/zh-cn/docs/index.html) 可快速搭建本地博客站点，并能将其推送到Github。
 
-### 准备
+## 准备
 需要准备好以下软件：
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/en/)
 
-### 安装 Hexo
+## 安装 Hexo
 在命令行输入以下命令将Hexo安装到全局环境：
 
 ```
@@ -17,7 +17,7 @@ sudo npm install hexo-cli -g
 ```
 安装成功后，会出现诸如`-- hexo-cli@1.0.3`的信息。
 
-### 初始化站点文件夹
+## 初始化站点文件夹
 使用以下命令在当前目录下新建一个名为Blog的文件夹，然后Hexo会对其进行初始化。
 
 ```
@@ -49,7 +49,7 @@ npm install
 │   │   └── test
 ```
 
-### 安装服务器
+## 安装服务器
 使用以下命令，将`hexo-server`安装到Blog目录：
 
 ```
@@ -57,7 +57,7 @@ cd Blog
 sudo npm install hexo-server --save
 ```
 
-### 站点初体验
+## 站点初体验
 Hexo 初始化的站点文件夹有一个内置的默认主题样式，同时也有一篇 Hello World 文章。
 
 ##### 缓存清理
