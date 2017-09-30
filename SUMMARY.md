@@ -1,5 +1,6 @@
 # Summary
+## Hexo 简易教程
+* [前言](introduction.md)
+* [I 安装与初体验](i-installation.md)
 
-* [Introduction](README.md)
-* [I 安装与初体验](i-an-zhuang-yu-chu-ti-yan.md)
 
